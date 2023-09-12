@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae7a284d-59bb-4ecf-89ee-c65a44adc998" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/desconto/CalculadoraDeDescontos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/desconto/DescontoParaOrcamentoComMaisDeCincoItens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/desconto/DescontoParaOrcamentoComValorMaiorQueQuinhentos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/loja/TestesImpostos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/loja/TestesDescontos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/loja/imposto/CalculadoraDeImpostos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/loja/imposto/CalculadoraDeImpostos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/loja/orcamento/Orcamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/loja/orcamento/Orcamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/loja/desconto/CalculadoraDeDescontos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/loja/desconto/CalculadoraDeDescontos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +47,7 @@
       <recent name="br.com.alura.loja.imposto" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.alura.loja.desconto" />
       <recent name="br.com.alura.loja.imposto" />
     </key>
   </component>
