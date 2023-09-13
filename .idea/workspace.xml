@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae7a284d-59bb-4ecf-89ee-c65a44adc998" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/loja/desconto/CalculadoraDeDescontos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/loja/desconto/CalculadoraDeDescontos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/loja/desconto/Desconto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/loja/desconto/Desconto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/loja/desconto/DescontoParaOrcamentoComMaisDeCincoItens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/loja/desconto/DescontoParaOrcamentoComMaisDeCincoItens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/loja/desconto/DescontoParaOrcamentoComValorMaiorQueQuinhentos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/loja/desconto/DescontoParaOrcamentoComValorMaiorQueQuinhentos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/loja/desconto/SemDesconto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/loja/desconto/SemDesconto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
